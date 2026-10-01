@@ -14,7 +14,7 @@ The system consists of three independent Spring Boot microservices and a React f
 ## 🛠️ Tech Stack
 
 - **Backend:** Java 17+, Spring Boot, Spring Data JPA, Spring Web
-- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Frontend:** React.js, JavaScript,Axios
 - **Database:** MySQL
 - **Build & Tools:** Maven, Git, Postman
 
